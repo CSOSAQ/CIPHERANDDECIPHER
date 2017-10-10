@@ -24,4 +24,4 @@ Cipher Cesar es un sistema que permite encriptar y desencriptar una palabra.
     - El programa obtendrá la letra desencriptada.
     - El programa imprimirá la frase desencriptada como texto.
 ### Diagrama de Flujo
-[DiagramaFlujo](file:///C:/Users/CSOSA/Desktop\Repositorio-1\CIPHERCESAR\assets/DF.svg)
+[DiagramaFlujo](https://github.com/CSOSAQ/CIPHERANDDECIPHER/blob/master/assets/DF.svg)
