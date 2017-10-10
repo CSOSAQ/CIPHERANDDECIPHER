@@ -2,11 +2,11 @@
 Cipher Cesar es un sistema que permite encriptar y desencriptar una palabra.
 ### Pseudocódigo
 
-#####Input:
+##### Input:
     - El programa permitirá ingresar un número de operación(encriptar, desencriptar o salir)
     - El programa pedirá la frase a operar según la opción escogida.
 
-#####Process: 
+##### Process: 
 - Encriptar:
     - El programa leerá la frase ingresada a encriptar.
     - El programa validará que la frase no sea un número y no esté vacío
